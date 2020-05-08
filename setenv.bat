@@ -1,0 +1,1 @@
+SET CLASSPATH=.;D:\Downloads\intellij-plugin-v4\lib\antlr-4.7-intellij-1.8.4-version-complete.jar;%CLASSPATH%

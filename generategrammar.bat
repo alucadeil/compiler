@@ -1,0 +1,1 @@
+antlr4 -visitor -no-listener -lib src src/main/java/compiler/grammar/SetGrammar.g4 -o src/main/java/compiler/grammar
